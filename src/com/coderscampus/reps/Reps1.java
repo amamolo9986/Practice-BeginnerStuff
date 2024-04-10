@@ -19,7 +19,7 @@ public class Reps1 {
 			if (guess < 1 || guess > 100) {
 				System.out.println("Haha you fool, that is not in your range.");
 			} else if (guess < randomNumber) {
-				System.out.println("Pick a higher number you bozo");
+				System.out.println("Pick a higher number");
 			} else if (guess > randomNumber) {
 				System.out.println("Lower pleaseeee");
 			}

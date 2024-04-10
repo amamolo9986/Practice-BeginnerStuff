@@ -53,9 +53,8 @@ public class User {
 
 }
 
-// what a user class is, is typically a type of object that stores data, specifically to a user to a 
-// piece of software. When you are a user of all these places, there are properties that they 
-// maintain and gather from you. these are the properties that you see above.
+// what a user class is, is typically a type of object that stores data.
+//There are properties that they maintain as well, these are the properties that you see above.
 
 // and these are instance variables because they belong to the instance of a user
 // meaning that they are not class variables. If they were class variables they would be static,

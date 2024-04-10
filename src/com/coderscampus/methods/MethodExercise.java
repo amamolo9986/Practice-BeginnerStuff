@@ -22,3 +22,4 @@ public class MethodExercise {
 		}
 	}
 }
+// This is an example of how you can execute Assignment 2 in one method, then call it into the main method.

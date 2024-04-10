@@ -20,6 +20,6 @@ public class UserApplication {
 //		System.out.println(users[1]);
 //		System.out.println(users[2]);
 		
-//		We can wither hard code like this ^^ or use a loop
+//		We can either hard code like this ^^ or use a loop like i have in lines 8-12
 	}
 }

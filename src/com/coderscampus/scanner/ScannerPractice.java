@@ -17,3 +17,5 @@ public class ScannerPractice {
 	}
 
 }
+// This scanner exersize is really simple exercise that demonstrates the function of a scanner.
+// It assigns the users input to a variable, then we system out the variable. Sort of like a mad lib.
