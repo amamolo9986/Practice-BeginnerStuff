@@ -1,4 +1,4 @@
-package com.coderscampus.methods;
+package com.coderscampus.guessinggamemethodseparation;
 
 import java.util.Scanner;
 
@@ -22,4 +22,4 @@ public class MethodExercise {
 		}
 	}
 }
-// This is an example of how you can execute Assignment 2 in one method, then call it into the main method.
+// This is an example of how you can execute a function in one method, then call it into the main method.

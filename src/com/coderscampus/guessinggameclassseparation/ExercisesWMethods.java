@@ -1,4 +1,4 @@
-package GuessingGameWithMethodCall;
+package com.coderscampus.guessinggameclassseparation;
 
 import java.util.Scanner;
 
